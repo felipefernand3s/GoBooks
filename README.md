@@ -7,4 +7,4 @@
 This repository contains many popular books about golang so that you can make yourself a skilled gopher
 
 ## Books
-[Go in Action](go-in-action.pdf){:target="_blank" rel="noopener"} - By William Kennedy
+[Go in Action](go-in-action.pdf) - By William Kennedy
